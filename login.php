@@ -11,7 +11,7 @@
 <body>
     <nav class="nav_bar">
             <ul>
-                <li><a href="index.html#section_1">home</a></li>
+                <li><a href="index.php">Home</a></li>
             </ul>
         </nav>
     <div class="login-container">
